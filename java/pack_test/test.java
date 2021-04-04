@@ -4,8 +4,8 @@ public class test{
     public static void main(String [] args) 
         {
             String url = "jdbc:postgresql://kdbs2.dom.htw-dresden.de:5432/gis";
-            String user = "s77673";
-            String pw = "Bjye074#";
+            String user = "***";
+            String pw = "***#";
 
             try 
             {
